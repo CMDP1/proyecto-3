@@ -1,10 +1,10 @@
-# Nova Librería + Editorial AR
+# proyecto 3
 
 Proyecto integral de dos aplicaciones web conectadas por una API REST y una base de datos MySQL.
 
 ## 1. Estructura
 
-- `web/nova/`: tienda en línea Nova.
+- `web/nova/`: tienda en línea 
 - `web/editorial/`: panel del proveedor Editorial AR.
 - `web/shared/`: estilos y JavaScript compartidos.
 - `api/`: API REST Node.js/Express.
